@@ -1,0 +1,10 @@
+C:\Users\clim16\Desktop\CanIWin\CanIWin\bin\Debug\CanIWin.exe.config
+C:\Users\clim16\Desktop\CanIWin\CanIWin\bin\Debug\CanIWin.exe
+C:\Users\clim16\Desktop\CanIWin\CanIWin\bin\Debug\CanIWin.pdb
+C:\Users\clim16\Desktop\CanIWin\CanIWin\bin\Debug\CanIWin.xml
+C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.vbprojResolveAssemblyReference.cache
+C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.Resources.resources
+C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.vbproj.GenerateResource.Cache
+C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.exe
+C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.xml
+C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.pdb
