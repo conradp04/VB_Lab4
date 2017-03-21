@@ -8,3 +8,13 @@ C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.vbproj.GenerateResourc
 C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.exe
 C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.xml
 C:\Users\clim16\Desktop\CanIWin\CanIWin\obj\Debug\CanIWin.pdb
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\bin\Debug\CanIWin.exe.config
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\obj\Debug\CanIWin.exe
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\obj\Debug\CanIWin.xml
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\obj\Debug\CanIWin.pdb
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\bin\Debug\CanIWin.exe
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\bin\Debug\CanIWin.pdb
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\bin\Debug\CanIWin.xml
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\obj\Debug\CanIWin.vbprojResolveAssemblyReference.cache
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\obj\Debug\CanIWin.Resources.resources
+C:\Users\clim\Desktop\Current Projects\CIS\VB_Lab4-master\CanIWin\CanIWin\obj\Debug\CanIWin.vbproj.GenerateResource.Cache
